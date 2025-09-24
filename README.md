@@ -62,6 +62,9 @@
 
 
 ---
+<h4 align="left">
+🌐 Get in Touch
+<h4>
 
 
 <div align="left">
@@ -75,7 +78,6 @@
 
 <br clear="both">
 
-<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxM2xqZTBqcmR1amt5a3NxZHZocHp6cDZzNjJiZmR0ZGM1ZTRreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" width="180"/>
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxM2xqZTBqcmR1amt5a3NxZHZocHp6cDZzNjJiZmR0ZGM1ZTRreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" width="180"/>
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxM2xqZTBqcmR1amt5a3NxZHZocHp6cDZzNjJiZmR0ZGM1ZTRreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" width="180"/>
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxM2xqZTBqcmR1amt5a3NxZHZocHp6cDZzNjJiZmR0ZGM1ZTRreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" width="180"/>
