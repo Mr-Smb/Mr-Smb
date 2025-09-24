@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! My name is Mr_Smb and I'm a Software Developer & AI/ML Engineer 🚀, from 
+  Hi 👋 My name is Mr_Smb and I'm a Software Developer & AI/ML Engineer, from 
   <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" height="20">
 </h2>
 
