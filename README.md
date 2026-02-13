@@ -6,17 +6,14 @@
 ---
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mr-smb&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" 
-    height="165" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mr-smb&show_icons=true&theme=dracula&hide_border=true" 
+    height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-smb&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=1800" 
-    height="165" 
-    alt="Top Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mr-smb&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+    height="165"
   />
 </p>
-
 
 
 
