@@ -5,12 +5,20 @@
 
 ---
 <p align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Smb&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-
-<!-- Top Languages (up to 5) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Smb&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mr-Smb&show_icons=true&count_private=true&theme=dracula&hide_border=true" 
+    height="165" 
+    alt="GitHub Stats" 
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Smb&layout=compact&theme=dracula&langs_count=5&hide_border=true" 
+    height="165" 
+    alt="Top Languages" 
+  />
 
 </p>
 
