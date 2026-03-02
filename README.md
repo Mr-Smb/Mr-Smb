@@ -6,11 +6,11 @@
 ---
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mr_Smb&show_icons=true&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Mr-Smb&show_icons=true&theme=dracula&hide_border=true" 
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr_Smb&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Smb&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
     height="165"
   />
 </p>
